@@ -29,6 +29,7 @@
 - [几何与安装校核数据](models/R12/几何与安装校核数据.json)及[接口工具空间检查](models/R12/接口工具空间检查.csv)：可检查的结果记录。
 - [9 月 9 日概念设计](docs/concept-design-20260909.md)、[BOM 与接口表](docs/bom-and-interfaces.md)、[参考来源](docs/references.md)。
 - [版本与参数边界](docs/STATUS.md)：解释概念设计和 R12 装配的区别。
+- [项目思考、检索与验证时间线](docs/TIMELINE.md)：按日期记录方案取舍、搜索依据、计算结果和验证边界。
 - [FreeCAD 可编辑模型](models/R12/3D燃料电池模型.FCStd) · [STEP 交换模型](models/R12/R12_紧凑分层_转角修复.step)。
 - [电气图源文件](diagrams/electrical-R12.drawio) · [电气图预览](diagrams/electrical-R12.png)。
 
