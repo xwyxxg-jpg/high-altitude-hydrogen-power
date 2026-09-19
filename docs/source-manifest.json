@@ -1,0 +1,122 @@
+[
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/01_整机外壳.png",
+    "published": "models/R12/01_整机外壳.png",
+    "sha256": "23b3889b2b0463203d53eceac1dd7aef8a46adcae5916933ed5e2a251554134d"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/02_内部完整装配.png",
+    "published": "models/R12/02_内部完整装配.png",
+    "sha256": "d22b0205cef84aef625c7847b6146a9b458adb06895d4396e3d2fbaf150d4a71"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/03_分层元器件布局.png",
+    "published": "models/R12/03_分层元器件布局.png",
+    "sha256": "4acd37c0b5770b53b3634aeb3e804b820f3a5dd0322e9858f420acceb191c335"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/04_圆弧管路及可拆接口.png",
+    "published": "models/R12/04_圆弧管路及可拆接口.png",
+    "sha256": "639da6350b58865e9f4d95c154fdd831a05b28b1428be66c000894c233459a61"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/05_线束接插件与固定点.png",
+    "published": "models/R12/05_线束接插件与固定点.png",
+    "sha256": "fc4771cda351afcd32dbd9454da8a4eb55eb1fc2a5505113fb18b6214e21c3e7"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/06_储氢模块断接细节.png",
+    "published": "models/R12/06_储氢模块断接细节.png",
+    "sha256": "35cf54044a98850a7ddddb67267a173caa404462967f6f11a77c608860d64eab"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/07_散热器与风扇.png",
+    "published": "models/R12/07_散热器与风扇.png",
+    "sha256": "260613afb4a7a5192f32198c30940b1cd1ca5b1861f56d26e7e3e22cea685981"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/3D燃料电池模型.FCStd",
+    "published": "models/R12/3D燃料电池模型.FCStd",
+    "sha256": "57f0196c2182c30709bab60726b57c284196504f0ab9af68db21f34a101cb850"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/R12_紧凑分层_转角修复.step",
+    "published": "models/R12/R12_紧凑分层_转角修复.step",
+    "sha256": "5eb81f55e3c1b21818790e4a1647e39917fc1b34cd943824ed185a85d2af79ad"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/R12_设计修改与检查说明.md",
+    "published": "models/R12/R12_设计修改与检查说明.md",
+    "sha256": "743d6fbbd896be4623922688cd10448bbb5268e9b50617bb2e0bd650d46c558c"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/几何与安装校核数据.json",
+    "published": "models/R12/几何与安装校核数据.json",
+    "sha256": "bbd53575235c80e38a6962534ee258f6f8efb2db9950462d5ec00f123284c3f9"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/接口工具空间检查.csv",
+    "published": "models/R12/接口工具空间检查.csv",
+    "sha256": "5fd12d55e6d4f292c1028573fad24a8e1abffed216de662538b950c288d203d2"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/管路圆弧与直段检查.csv",
+    "published": "models/R12/管路圆弧与直段检查.csv",
+    "sha256": "8d31a441a036fcb6a8683da6f5ed80e645660ddf661119453cf012242ebc9f3e"
+  },
+  {
+    "source": "新设计/FreeCAD_详细装配/R12_紧凑分层与圆弧管路/线束与固定点检查.csv",
+    "published": "models/R12/线束与固定点检查.csv",
+    "sha256": "f174ea8405a2be01ad87605f66e476e9bfef5673e9499c2db3c5435f7b35ff0e"
+  },
+  {
+    "source": "新设计/01_系统详细设计报告.md",
+    "published": "docs/concept-design-20260909.md",
+    "sha256": "c9660ee372fa349490847dae79333cf86184f7a7d19cf309b80c078e830c7d49"
+  },
+  {
+    "source": "新设计/02_部件BOM与接口表.md",
+    "published": "docs/bom-and-interfaces.md",
+    "sha256": "9c2fa2d9538b788ba62396028038475c884aebd09b1ec1cb8f1333646207a431"
+  },
+  {
+    "source": "新设计/03_来源与检索记录.md",
+    "published": "docs/references.md",
+    "sha256": "3ed6bf50db1ca1a5eddb0750ce4a08a23d5bf460eb7740504936f023fa6d8b06"
+  },
+  {
+    "source": "新设计/tools/calculate.py",
+    "published": "tools/calculate.py",
+    "sha256": "0157db71f63854962df225b12c029c2820e95757320429e7153fd4fe8413bf6c"
+  },
+  {
+    "source": "新设计/calculations/parameters.json",
+    "published": "calculations/parameters.json",
+    "sha256": "c7626ef881ced3170a7bf06d631e940dd57b82253ff6193409bc862dc3e087f6"
+  },
+  {
+    "source": "新设计/calculations/bed_warmup.png",
+    "published": "calculations/bed_warmup.png",
+    "sha256": "874c4ddd7154a9c2b2dfee7e3b5f22af7468ad99a4dd3d282bf6b7c4bf9cf23b"
+  },
+  {
+    "source": "新设计/calculations/pct_screen.png",
+    "published": "calculations/pct_screen.png",
+    "sha256": "bb92dc873aee39ec0580916006678e09f17d52fcf1b988fe2881367a221afd30"
+  },
+  {
+    "source": "电气架构/低压电气架构图_R12.drawio",
+    "published": "diagrams/electrical-R12.drawio",
+    "sha256": "a22ffd56c39f0e6fd22cc63625e85c3dcbd1fb0f76819ba5b0f7c1e62325c055"
+  },
+  {
+    "source": "电气架构/电气架构图_R12纠错.png",
+    "published": "diagrams/electrical-R12.png",
+    "sha256": "122f1344cafcfdf74bb2335a359bba7ef2b865a8dbb308ebc425f4c9c4a0e596"
+  },
+  {
+    "source": "电气架构/R12阀门统计.md",
+    "published": "docs/R12-valves.md",
+    "sha256": "d45a226c6749bee9767f8cc065ca9289ef0981f447d4f97189152e90c28f4ded"
+  }
+]

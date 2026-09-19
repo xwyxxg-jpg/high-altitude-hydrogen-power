@@ -1,0 +1,7 @@
+* text=auto
+*.png binary
+*.FCStd binary
+*.step -text
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf

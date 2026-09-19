@@ -1,0 +1,234 @@
+{
+  "classification": "calculated estimates, not validated hardware performance",
+  "stack_cells": 70,
+  "current_A": 156,
+  "gross_W": 7098.0,
+  "net_W_aux1300": 5514.08,
+  "net_W_after_6pct_voltage_loss_aux1300": 5105.2352,
+  "old55_net_W_aux1300": 4053.92,
+  "H2_reacted_kg_h": 0.4106752436807593,
+  "H2_fed_kg_h": 0.41905637110281563,
+  "H2_fed_NL_min_0C_1atm": 77.65605203192797,
+  "water_kg_h": 3.670074361557787,
+  "air_g_s_lambda2_5": 9.77982008053384,
+  "air_NL_min_0C_1atm": 454.0747672511301,
+  "stack_heat_LHV_W": 6586.670311937565,
+  "stack_heat_HHV_W": 9076.80880989271,
+  "bed_desorption_heat_W": 1801.6061883103503,
+  "main_loop_heat_W_at30Lmin_delta5": 9095.0,
+  "secondary_heat_W_at15Lmin_delta6": 5457.0,
+  "battery_20s2p_Wh": 1839.9999999999998,
+  "battery_cell_mass_kg": 21.8,
+  "battery_usable_cold_Wh_assumed": 622.6559999999998,
+  "startup_120s_Wh_at9kW": 300.0,
+  "module_alloy_kg": 60,
+  "total_alloy_kg": 240,
+  "bed_working_H2_kg_assuming_1wtpct_90pct_delivery": 2.16,
+  "gas_inventory_full_kg": 0.3282910093555769,
+  "gas_inventory_usable_kg": 0.3017006045203724,
+  "gas_only_bridge_min_full_current": 43.19713890420963,
+  "total_usable_H2_kg": 2.4617006045203724,
+  "five_hour_H2_kg": 2.095281855514078,
+  "five_hour_after_startup_H2_kg": 2.1092504012175053,
+  "runtime_h_with_10pct_operational_reserve": 5.286951104544247,
+  "altitude_cases": [
+    {
+      "altitude_m": 0,
+      "ambient_C": -30,
+      "ambient_kPaA": 101.325,
+      "air_m3_h": 24.25205690553154,
+      "compressor_pressure_ratio": 1.2467308166790032,
+      "compressor_electrical_W_55pct_overall_eff": 282.5865651097714
+    },
+    {
+      "altitude_m": 0,
+      "ambient_C": 20,
+      "ambient_kPaA": 101.325,
+      "air_m3_h": 29.239113641195033,
+      "compressor_pressure_ratio": 1.2467308166790032,
+      "compressor_electrical_W_55pct_overall_eff": 340.6960788070306
+    },
+    {
+      "altitude_m": 2000,
+      "ambient_C": -30,
+      "ambient_kPaA": 79.4951974352912,
+      "air_m3_h": 30.911800275145538,
+      "compressor_pressure_ratio": 1.3144844066882142,
+      "compressor_electrical_W_55pct_overall_eff": 353.0898009103475
+    },
+    {
+      "altitude_m": 2000,
+      "ambient_C": 20,
+      "ambient_kPaA": 79.4951974352912,
+      "air_m3_h": 37.26832922335561,
+      "compressor_pressure_ratio": 1.3144844066882142,
+      "compressor_electrical_W_55pct_overall_eff": 425.69720393530065
+    },
+    {
+      "altitude_m": 4000,
+      "ambient_C": -30,
+      "ambient_kPaA": 61.640206444059196,
+      "air_m3_h": 39.86585716878012,
+      "compressor_pressure_ratio": 1.4055794333312046,
+      "compressor_electrical_W_55pct_overall_eff": 443.901619158374
+    },
+    {
+      "altitude_m": 4000,
+      "ambient_C": 20,
+      "ambient_kPaA": 61.640206444059196,
+      "air_m3_h": 48.06364807332056,
+      "compressor_pressure_ratio": 1.4055794333312046,
+      "compressor_electrical_W_55pct_overall_eff": 535.1830543132936
+    },
+    {
+      "altitude_m": 5000,
+      "ambient_C": -30,
+      "ambient_kPaA": 54.01988000847797,
+      "air_m3_h": 45.48954321200499,
+      "compressor_pressure_ratio": 1.4627925866565505,
+      "compressor_electrical_W_55pct_overall_eff": 498.8064504091117
+    },
+    {
+      "altitude_m": 5000,
+      "ambient_C": 20,
+      "ambient_kPaA": 54.01988000847797,
+      "air_m3_h": 54.84375732099225,
+      "compressor_pressure_ratio": 1.4627925866565505,
+      "compressor_electrical_W_55pct_overall_eff": 601.378206610862
+    }
+  ],
+  "PCT_extrapolation": [
+    {
+      "temperature_C": -30,
+      "industrial_mean_barA": 0.1104832951402139,
+      "lab_s6_plateau1_barA": 0.06405508561727365
+    },
+    {
+      "temperature_C": 10,
+      "industrial_mean_barA": 0.97753131194742,
+      "lab_s6_plateau1_barA": 0.5434746952486814
+    },
+    {
+      "temperature_C": 25,
+      "industrial_mean_barA": 1.9041216852348999,
+      "lab_s6_plateau1_barA": 1.0451408202937509
+    },
+    {
+      "temperature_C": 40,
+      "industrial_mean_barA": 3.479511488011769,
+      "lab_s6_plateau1_barA": 1.8878318865356982
+    },
+    {
+      "temperature_C": 50,
+      "industrial_mean_barA": 5.041544533442516,
+      "lab_s6_plateau1_barA": 2.715886552632948
+    },
+    {
+      "temperature_C": 55,
+      "industrial_mean_barA": 6.017353402402373,
+      "lab_s6_plateau1_barA": 3.230545085874179
+    },
+    {
+      "temperature_C": 60,
+      "industrial_mean_barA": 7.143991077575996,
+      "lab_s6_plateau1_barA": 3.8227669143678016
+    }
+  ],
+  "bed_sensitivity": [
+    {
+      "UA_W_K_per_bed": 100,
+      "heat_capacity_J_K_per_bed": 45000,
+      "ready_min": [
+        21.45,
+        34.641666666666666,
+        55.34166666666667,
+        78.05
+      ],
+      "minimum_feeding_temperature_C": 43.87961701166469,
+      "thermal_supply_screen_pass": false,
+      "residual_J": 1.5832483768463135e-07
+    },
+    {
+      "UA_W_K_per_bed": 200,
+      "heat_capacity_J_K_per_bed": 45000,
+      "ready_min": [
+        16.491666666666667,
+        35.791666666666664,
+        57.84166666666667,
+        80.90833333333333
+      ],
+      "minimum_feeding_temperature_C": 52.01687509496307,
+      "thermal_supply_screen_pass": true,
+      "residual_J": 1.909211277961731e-07
+    },
+    {
+      "UA_W_K_per_bed": 300,
+      "heat_capacity_J_K_per_bed": 45000,
+      "ready_min": [
+        15.65,
+        36.5,
+        58.608333333333334,
+        81.73333333333333
+      ],
+      "minimum_feeding_temperature_C": 52.04316069473333,
+      "thermal_supply_screen_pass": true,
+      "residual_J": 2.4959444999694824e-07
+    }
+  ],
+  "stack_thermal_screen": [
+    {
+      "C_kJ_K": 12,
+      "net_heat_kW": 4,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 159.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 12,
+      "net_heat_kW": 6,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 114.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 12,
+      "net_heat_kW": 8,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 91.5,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 18,
+      "net_heat_kW": 4,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 226.5,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 18,
+      "net_heat_kW": 6,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 159.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 18,
+      "net_heat_kW": 8,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 125.25,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 24,
+      "net_heat_kW": 4,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 294.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 24,
+      "net_heat_kW": 6,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 204.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    },
+    {
+      "C_kJ_K": 24,
+      "net_heat_kW": 8,
+      "time_to_15C_s_plus14s_selfcheck_plus10s_stable": 159.0,
+      "scope": "necessary energy-only screen; excludes ice blockage, hydration and voltage recovery"
+    }
+  ]
+}
